@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddb4c447-180e-4503-ae1f-dfaadde15c50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="entrycheck" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DailyCheck" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="214XkDVj536jWNyUps21QHLpNTM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\my_python_workspace\EntryAndCheck\jetend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.runDailyValuation">
+    <configuration name="runDailyValuation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EntryAndCheck" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DailyCheck" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DailyCheck/runDailyValuation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runEntryGeneration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EntryAndCheck" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EntryGeneration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EntryGeneration/runEntryGeneration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EntryAndCheck" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EntryGeneration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EntryGeneration/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runDailyValuation" />
+        <item itemvalue="Python.runEntryGeneration" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddb4c447-180e-4503-ae1f-dfaadde15c50" name="Default Changelist" comment="" />
+      <created>1637201473822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637201473822</updated>
+      <workItem from="1637201474931" duration="16538000" />
+      <workItem from="1637283935357" duration="2562000" />
+      <workItem from="1637288000741" duration="2595000" />
+      <workItem from="1637301502866" duration="4264000" />
+      <workItem from="1637542207938" duration="17004000" />
+      <workItem from="1637627522233" duration="24778000" />
+      <workItem from="1637710071077" duration="40140000" />
+      <workItem from="1638152242083" duration="195000" />
+      <workItem from="1638281824293" duration="107251000" />
+      <workItem from="1638795585178" duration="191538000" />
+      <workItem from="1640656243338" duration="145165000" />
+      <workItem from="1643330131575" duration="3201000" />
+      <workItem from="1643354169058" duration="4327000" />
+      <workItem from="1644305684795" duration="33302000" />
+      <workItem from="1645145813792" duration="3033000" />
+      <workItem from="1645428641964" duration="129387000" />
+      <workItem from="1648082378172" duration="75117000" />
+      <workItem from="1649634720527" duration="71596000" />
+      <workItem from="1652228226749" duration="2552000" />
+      <workItem from="1652232357385" duration="209566000" />
+      <workItem from="1655080551787" duration="8035000" />
+      <workItem from="1655128176739" duration="34877000" />
+      <workItem from="1656497559861" duration="190000" />
+      <workItem from="1656497773277" duration="1490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../../../../../Wind/Wind.NET.Client/WindNET/x64/WindPy.py</url>
+          <line>170</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jetend/jetend/modules/jmMarketBoard.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jetend/jetend/modules/jmMarketBoard.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jetend/jetend/modules/jmMarketBoard.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/BondFlow.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Monitor.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/__depreciated__/EntryAccountList.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/func.py</url>
+          <line>420</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/runEntryGeneration.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>262</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>261</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/func.py</url>
+          <line>561</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/func.py</url>
+          <line>563</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/func.py</url>
+          <line>554</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>985</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/entry/Account.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/__depreciated__/EntryAccountList.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/__depreciated__/EntryAccountList.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/__depreciated__/EntryAccountList.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/__depreciated__/EntryAccountList.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>572</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>574</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>384</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>937</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>402</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>360</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>366</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>371</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>345</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>328</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>306</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>291</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>289</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jetend/jetend/modules/jmInfoBoard.py</url>
+          <line>240</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jetend/jetend/modules/jmInfoBoard.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jetend/jetend/modules/jmInfoBoard.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/MarginFlow.py</url>
+          <line>371</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/MarginFlow.py</url>
+          <line>291</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/MarginFlow.py</url>
+          <line>259</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/MarginFlow.py</url>
+          <line>251</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/MarginFlow.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/MarginFlow.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/func.py</url>
+          <line>465</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/func.py</url>
+          <line>458</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/StockFlow.py</url>
+          <line>525</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/StockFlow.py</url>
+          <line>524</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/StockFlow.py</url>
+          <line>520</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>790</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>786</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>785</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>745</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>747</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/BankFlow.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/func.py</url>
+          <line>1438</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>857</line>
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>831</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>860</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/BankFlow.py</url>
+          <line>412</line>
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>628</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>621</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>546</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>552</line>
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>558</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/runDailyValuation.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>187</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>224</line>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>435</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>473</line>
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>506</line>
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>538</line>
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>570</line>
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>602</line>
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>639</line>
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>674</line>
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>717</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>786</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>825</line>
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/output/ValuationSheet.py</url>
+          <line>843</line>
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>639</line>
+          <option name="timeStamp" value="440" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>647</line>
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>662</line>
+          <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="456" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>161</line>
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>218</line>
+          <option name="timeStamp" value="462" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>232</line>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>304</line>
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>360</line>
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>627</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/entry/Account.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/SwapFlow.py</url>
+          <line>678</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/SwapFlow.py</url>
+          <line>679</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/__depreciated__/loader/TradeLoader.py</url>
+          <line>223</line>
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/__depreciated__/loader/TradeLoader.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="486" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/Valuation.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/func.py</url>
+          <line>911</line>
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>345</line>
+          <option name="timeStamp" value="513" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>354</line>
+          <option name="timeStamp" value="514" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>371</line>
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>386</line>
+          <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>416</line>
+          <option name="timeStamp" value="530" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>476</line>
+          <option name="timeStamp" value="532" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="533" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="534" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="537" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>167</line>
+          <option name="timeStamp" value="538" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>214</line>
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>230</line>
+          <option name="timeStamp" value="540" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>315</line>
+          <option name="timeStamp" value="544" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>247</line>
+          <option name="timeStamp" value="545" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/entry/Position.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="548" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/func.py</url>
+          <line>487</line>
+          <option name="timeStamp" value="551" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCheck/core/NonMandatedValuation.py</url>
+          <line>891</line>
+          <option name="timeStamp" value="558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/sheets/flowing/VATWithholding.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="559" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>262</line>
+          <option name="timeStamp" value="560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>253</line>
+          <option name="timeStamp" value="561" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EntryGeneration/core/Generator.py</url>
+          <line>678</line>
+          <option name="timeStamp" value="562" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+        <watch expression="self" />
+        <watch expression="acc_list.data[25]" />
+        <watch expression="acc_list.data[3]" />
+        <watch expression="mf_rec_list" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EntryAndCheck$test.coverage" NAME="test Coverage Results" MODIFIED="1651103131113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EntryGeneration" />
+    <SUITE FILE_PATH="coverage/EntryAndCheck$runDailyValuation.coverage" NAME="runDailyValuation Coverage Results" MODIFIED="1656464934995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DailyCheck" />
+    <SUITE FILE_PATH="coverage/EntryAndCheck$runEntryGeneration.coverage" NAME="runEntryGeneration Coverage Results" MODIFIED="1656464921325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EntryGeneration" />
+  </component>
+</project>

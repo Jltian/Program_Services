@@ -1,0 +1,46 @@
+### settings of project
+### loaded in core/Environment
+
+## mysql database setting
+DataBase:
+  # str, server address
+  # server: 192.168.1.31
+  server: 192.168.1.31
+  # int, server port
+  port: 3306
+  # str, user name
+  usr: root
+  # str, password
+  pwd: jm3389
+
+MarketBoardCache:
+  AbsPath:
+
+
+Output:
+  # str, output choice, choice range(database, csv), default csv
+  choice: csv
+  # str, output folder, default temp
+  folder: temp
+
+Valuation:
+  # str, 何梦洁估值表文件夹绝对路径
+  AbsPath: C:\NutStore\估值表\2019.04.10
+
+WindSocketServer:
+  # JM-wqian
+  host: 192.168.1.31
+  # SC2012
+  # host: 192.168.1.189
+  # BP
+  # host: 192.168.1.231
+
+
+## log setting
+Log:
+  # bool, whether to output log file, choice range(false/true)
+  LogFile: false
+  # str, folder to store log, default log
+  LogFolder: log
+  # str, log level, choice range (debug, info, warn, error, critical), default debug
+  LogLevel: debug
