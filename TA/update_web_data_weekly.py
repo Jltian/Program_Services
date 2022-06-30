@@ -8,6 +8,7 @@ import warnings
 import math
 
 # 业绩报酬预提 专享10 王顺兴（这个产品只有这一个客户，是专户，只收取管理费），久铭9 李孟英 （同样是只有一个客户，专户，只收取管理费）
+# 顺利进行
 warnings.filterwarnings('ignore')
 end_date = datetime.date(2022, 6, 29)
 t = str(end_date)
